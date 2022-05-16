@@ -3,7 +3,7 @@
 Integrantes: Isabela Ferreira Scarabelli - 
              Paulo Éder Medeiros Cardoso - 
              Pedro Henrique de Almeida Santos - 
-             Ruan Alberto Silva - 
+             Ruan Alberto Silva
              
 
 
